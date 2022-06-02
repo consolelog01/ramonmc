@@ -12,19 +12,27 @@
 :white_check_mark: Laravel
 
 :white_check_mark: JavaScript
+
 :white_check_mark: JQuery
+
 :white_check_mark: HTML
+
 :white_check_mark: CSS
 
 :rocket: Others:
 
 :heavy_check_mark: AJAX
+
 :heavy_check_mark: JSON
+
 :heavy_check_mark: Netlify
+
 :heavy_check_mark: XAMPP
+
 :heavy_check_mark: PuTTY
 
 :rocket: BD:
+
 :heavy_check_mark: MySQL
 
 <!---
