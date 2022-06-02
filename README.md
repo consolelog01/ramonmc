@@ -5,10 +5,12 @@
 - 📫 How to reach me lablabsoft@ramonportafolio.com
 
 
-:rocket: Tecnologys: \n
+:rocket: Tecnologys:
 
-:white_check_mark: PHP \n
-:white_check_mark: Laravel \n
+:white_check_mark: PHP
+
+:white_check_mark: Laravel
+
 :white_check_mark: JavaScript
 :white_check_mark: JQuery
 :white_check_mark: HTML
