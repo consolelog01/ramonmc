@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning design and C++
 - 💞️ I’m looking to collaborate on develop the technology of the future
-- 📫 How to reach me lablabsoft@ramonportafolio.com
+- 📫 How to reach me
 
 
 :rocket: Tecnologys:
